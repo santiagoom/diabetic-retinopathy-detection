@@ -1,0 +1,10 @@
+
+
+
+
+root@43f975fd2f43:~/volume/projects/drd/src# nohup python -u drd_train_script.py >>log.out &
+[1] 86
+root@43f975fd2f43:~/volume/projects/drd/src# nohup: ignoring input and redirecting stderr to stdout
+
+
+
